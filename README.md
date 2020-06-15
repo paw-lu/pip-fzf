@@ -33,17 +33,18 @@ all packages on [PyPI](https://pypi.org/).
 The `uninstall` command allows you to search through all installed packages.
 
 ```shell
-❯ pip install ** [TAB]
-> flake8
-240273/240273
->   flake8
-    flake8-nb
-    flake8-aaa
-    flake8-csv
-    flake8mock
-    flake8-pie
-    flake8-pyi
-    flake8-rst
+❯ pip uninstall ** [TAB]
+> 
+9/9
+>   black
+    flake8
+    flask
+    invoke
+    nox
+    pandas
+    pip
+    pytest
+    setuptools
 ```
 
 ## Install
