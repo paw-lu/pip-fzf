@@ -2,6 +2,8 @@
 
 Smart fuzzy completion for pip.
 
+![Demo of pip-fzf usage](images/pip-fzf_demo.gif)
+
 ## Usage
 
 Simply type in `pip install` or `pip uninstall` followed by `**`,
